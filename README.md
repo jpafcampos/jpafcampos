@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is João and I'm a PhD student @ UFMG!
+Currently, I study optimization and structural learning of probabilistic graphical models.
+I am also passionate about Computer Vision and Natural Language Processing
 <!--
 **jpafcampos/jpafcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
